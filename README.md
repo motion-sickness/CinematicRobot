@@ -53,3 +53,6 @@ Electronics Housing:  We are working to make our electronics housing as small as
 MotionSick.org:  A large portion of the funds raised will go to launch our website.  At motionsick.org you will find info on all the different components of a MoCo system as well as links to all the recommended products for each catagory.  A main part of motionsick.org will be the forum.  This will be the place where people can share news ideas and get help if they run into any problems.  
 
 Extra Funds:  Will help us expand our operation, which includes the development of an open source MoCo crane. 
+
+
+https://www.facebook.com/openmoco
