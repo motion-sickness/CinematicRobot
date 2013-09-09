@@ -1,7 +1,7 @@
 CinematicRobot
 ==============
 
-Open Source Hardware Project. I need help with my crowd-funding sales and data sheet. Of anyone would like to make edits or suggest changes it would be much appreciated.  I'm wondering about comprehension from someone who isn't living and breathing this project.  A video can be viewed at https://vimeo.com/51114924
+Open Source Hardware Project. I need help with my crowd-funding sales and data sheet. if anyone would like to make edits or suggest changes it would be much appreciated.  I'm wondering about comprehension from someone who isn't living and breathing this project.  A video can be viewed at https://vimeo.com/51114924
 
 
 
